@@ -8,6 +8,7 @@ sry 4 my english
 Install Python
 Now in the terminal you need to write:
 pip install discord.py
+Set token of the bot in the last line
 Open the bot with python
 Add a bot to your server
 PROFIT!!!
