@@ -32,4 +32,4 @@ async def kick(ctx, member: discord.Member, *, reason = "Нарушение пр
 	await ctx.channel.purge(limit = 1)
 	await member.kick(reason = reason)
 
-client.run('Nzk4ODg5NzU5MDgyNDE0MDgw.X_7mEQ.uB4OY1J4slqGAe3cB5bqlWMmjHs')
+client.run('') # Set token
